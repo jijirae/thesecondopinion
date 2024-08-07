@@ -7,6 +7,13 @@
     <title>The Second Opinion</title>
     <!-- Halfmoon CSS -->
     <link href="css/halfmoon.css" rel="stylesheet">
+    <style>
+      .fixed-bottom-right {
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+    }
+    </style>
   </head>
   <body>
     <nav class="navbar navbar-expand-md" style="background-color: var(--bs-content-bg); border-bottom: var(--bs-border-width) solid var(--bs-content-border-color);">
@@ -75,9 +82,19 @@
       </div>
     </div>
     </div>
-    <div>
-      <img src="assets/logo.svg" alt="Logo" width="256" height="auto" class="float-end">
+
+    <div class="fixed-bottom-right text-end">
+      <div class="card" style="width: 19rem;">
+        <div class="card-body">
+          <h5 class="card-title">This project supports <img src="https://fmhy.net/fmhy.ico" alt="fmhy icon" width="24" height="auto"> FMHY.</h5>
+          <p class="card-text">
+            FreeMediaHeckYeah hosts <b>THE</b> largest collection of free stuff on the internet.
+          </p>
+          <a href="https://fmhy.net"><button type="button" class="btn btn-info text-center">I want free stuff!</button></a>
+        </div>
+      </div>
     </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
 </html>
