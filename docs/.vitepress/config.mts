@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/thesecondopinion/',
   title: "The Second Opinion",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/thesecondopinion/favicon.ico' }]],
   description: "The Second Opinion is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
