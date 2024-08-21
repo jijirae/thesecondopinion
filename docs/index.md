@@ -32,7 +32,11 @@ features:
     details: Second-opinion scanners are particularly useful when the primary antivirus fails to detect a suspected infection, has a high false-positive rate, or when the user simply wants to ensure maximum protection.
 ---
 <style>
-  :root {
+  .root {
+      --vp-home-hero-image-background-image: linear-gradient(-45deg, #BE0735 10%, #AE3034 10%);
+      --vp-home-hero-image-filter: blur(44px);
+  }
+  .dark {
       --vp-home-hero-image-background-image: linear-gradient(-45deg, #BE0735 10%, #AE3034 10%);
       --vp-home-hero-image-filter: blur(44px);
   }
