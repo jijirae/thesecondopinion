@@ -3,3 +3,6 @@
 
 # Ignore Vitepress cache
 /docs/.vitepress/cache
+
+# Ignore Vitepress node_modules
+/docs/.vitepress/node_modules
