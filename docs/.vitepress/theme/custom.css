@@ -1,0 +1,82 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-c-gray-1: #dddde3;
+    --vp-c-gray-2: #e4e4e9;
+    --vp-c-gray-3: #ebebef;
+    --vp-c-gray-soft: rgba(142, 150, 170, 0.14);
+  
+    --vp-c-indigo-1: #3451b2;
+    --vp-c-indigo-2: #3a5ccc;
+    --vp-c-indigo-3: #5672cd;
+    --vp-c-indigo-soft: rgba(100, 108, 255, 0.14);
+  
+    --vp-c-purple-1: #6f42c1;
+    --vp-c-purple-2: #7e4cc9;
+    --vp-c-purple-3: #8e5cd9;
+    --vp-c-purple-soft: rgba(159, 122, 234, 0.14);
+  
+    --vp-c-green-1: #18794e;
+    --vp-c-green-2: #299764;
+    --vp-c-green-3: #30a46c;
+    --vp-c-green-soft: rgba(16, 185, 129, 0.14);
+  
+    --vp-c-yellow-1: #915930;
+    --vp-c-yellow-2: #946300;
+    --vp-c-yellow-3: #9f6a00;
+    --vp-c-yellow-soft: rgba(234, 179, 8, 0.14);
+  
+    --vp-c-red-1: #b8272c;
+    --vp-c-red-2: #d5393e;
+    --vp-c-red-3: #e0575b;
+    --vp-c-red-soft: rgba(244, 63, 94, 0.14);
+  
+    --vp-c-sponsor: #db2777;
+
+    --vp-c-brand-1: var(--vp-c-red-1);
+    --vp-c-brand-2: var(--vp-c-red-2);
+    --vp-c-brand-3: var(--vp-c-red-3);
+    --vp-c-brand-soft: var(--vp-c-red-soft);
+
+  }
+  
+  .dark {
+    --vp-c-gray-1: #515c67;
+    --vp-c-gray-2: #414853;
+    --vp-c-gray-3: #32363f;
+    --vp-c-gray-soft: rgba(101, 117, 133, 0.16);
+  
+    --vp-c-indigo-1: #a8b1ff;
+    --vp-c-indigo-2: #5c73e7;
+    --vp-c-indigo-3: #3e63dd;
+    --vp-c-indigo-soft: rgba(100, 108, 255, 0.16);
+  
+    --vp-c-purple-1: #c8abfa;
+    --vp-c-purple-2: #a879e6;
+    --vp-c-purple-3: #8e5cd9;
+    --vp-c-purple-soft: rgba(159, 122, 234, 0.16);
+  
+    --vp-c-green-1: #3dd68c;
+    --vp-c-green-2: #30a46c;
+    --vp-c-green-3: #298459;
+    --vp-c-green-soft: rgba(16, 185, 129, 0.16);
+  
+    --vp-c-yellow-1: #f9b44e;
+    --vp-c-yellow-2: #da8b17;
+    --vp-c-yellow-3: #a46a0a;
+    --vp-c-yellow-soft: rgba(234, 179, 8, 0.16);
+  
+    --vp-c-red-1: #f66f81;
+    --vp-c-red-2: #f14158;
+    --vp-c-red-3: #b62a3c;
+    --vp-c-red-soft: rgba(244, 63, 94, 0.16);
+
+    --vp-c-default-1: var(--vp-c-gray-1);
+    --vp-c-default-2: var(--vp-c-gray-2);
+    --vp-c-default-3: var(--vp-c-gray-3);
+    --vp-c-default-soft: var(--vp-c-gray-soft);
+  
+    --vp-c-brand-1: var(--vp-c-red-1);
+    --vp-c-brand-2: var(--vp-c-red-2);
+    --vp-c-brand-3: var(--vp-c-red-3);
+    --vp-c-brand-soft: var(--vp-c-red-soft);
+  }
