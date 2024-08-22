@@ -8,7 +8,8 @@ Choose from whatever mirror works for you the best below.
 
 > [!TIP]
 > It is also a pretty good idea to use Windows Defender's Offline scan function. <a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline">Learn more.</a>
-## 🆕 The Second Opinion v3a
+
+## <img style="float: left;" src="/new.png"/> The Second Opinion v3a 
 > [!NOTE]
 > As of Version 3a, HitmanPro is no longer detected as a trojan by any AV engines.
 
@@ -32,7 +33,7 @@ SHA-256: `30f2def18f1db0cf8de5798f1e1feb5017d199cad9f31a4a8e9f0f4f8436599e`
 
 <!--TSO v3-->
 
-## The Second Opinion v3
+## <img style="float: left;" src="/old.png"/>The Second Opinion v3
 > [!NOTE]
 > As of Version 3a, HitmanPro is no longer detected as a trojan by any AV engines.
 
