@@ -1,14 +1,13 @@
+![Download Banner](banner_download.png)
+# Get The Second Opinion Today.
+Choose from whatever mirror works for you the best below.
+
+<!--TSO LATEST-->
 > [!INFO]
 > TSO scanners are only for Windows machines. 32-bit and 64-bit are supported.
 
 > [!TIP]
 > It is also a pretty good idea to use Windows Defender's Offline scan function. <a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline">Learn more.</a>
-
-# Get The Second Opinion Today.
-Choose from whatever mirror works for you the best below.
-
-<!--TSO LATEST-->
-
 ## 🆕 The Second Opinion v3a
 > [!NOTE]
 > As of Version 3a, HitmanPro is no longer detected as a trojan by any AV engines.

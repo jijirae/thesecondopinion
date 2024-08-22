@@ -16,14 +16,17 @@ export default defineConfig({
     
     nav: [
       { text: 'Download TSO', link: '/download' },
+      { text: 'What is TSO?', link: '/what-is' },
       { text: 'About', link: '/about' }
     ],
 
     sidebar: [
       {
         items: [
+          { text: 'What is TSO?', link: '/what-is' },
+          { text: 'How-to', link: '/how-to' },
           { text: 'Download TSO', link: '/download' },
-          { text: 'About', link: '/about' }
+          { text: 'About', link: '/about' },
         ]
       }
     ],
