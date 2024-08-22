@@ -1,14 +1,11 @@
-<center>
 <a href="https://jijirae.github.io/thesecondopinion/"><img src="docs/public/mascot.png" width="200" height="auto" alt="Futatsuki, the mascot of TSO">
-
-<b><h style="font-size: 3rem;color: transparent; background:-webkit-linear-gradient(120deg, #B7012E, #FDA598, #B7012E); -webkit-background-clip: text;">The Second Opinion</h></b></a>
+# The Second Opinion </a>
 
 The Second Opinion is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.
 
 "The Second Opinion" is coined from "The PC Security Channel" in YouTube. Find his stuff [here.](https://www.youtube.com/@pcsecuritychannel)
 
 This project is created so I have a personal link for my tools, in case I lose my thumb drive that contains them.
-</center>
 
 ## Disclaimer
 I have compiled this collection of portable antivirus (AV) scanners from various AV manufacturers for convenience and educational purposes only.
