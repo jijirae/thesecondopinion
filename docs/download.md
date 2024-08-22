@@ -9,7 +9,7 @@ Choose from whatever mirror works for you the best below.
 > [!TIP]
 > It is also a pretty good idea to use Windows Defender's Offline scan function. <a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline">Learn more.</a>
 
-## <img style="float: left;" src="/new.png"/> The Second Opinion v3a 
+## <img style="float: left;" src="/new.png"/> <h style="font-size: 3rem;color: transparent; background:-webkit-linear-gradient(120deg, #B7012E, #FDA598, #B7012E); -webkit-background-clip: text;">The Second Opinion v3a</h> 
 > [!NOTE]
 > As of Version 3a, HitmanPro is no longer detected as a trojan by any AV engines.
 
