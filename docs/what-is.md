@@ -1,4 +1,4 @@
-![What is Banner](banner_whatis.png)
+![What is Banner](/banner_whatis.png)
 # What is The Second Opinion?
 "The Second Opinion" is a collection of **Second Opinion** scanners designed to be portable and easy-to-use. *(Fancy way of saying that it's a zip file of multiple portable AV scanners)*
 

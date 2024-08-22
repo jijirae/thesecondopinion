@@ -1,4 +1,4 @@
-![About Banner](banner_about.png)
+![About Banner](/banner_about.png)
 ## Disclaimer
 I have compiled this collection of portable antivirus (AV) scanners from various AV manufacturers for convenience and educational purposes only.
 
