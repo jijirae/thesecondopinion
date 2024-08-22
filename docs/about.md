@@ -1,4 +1,7 @@
 ![About Banner](/banner_about.png)
+# About
+Some miscellaneous information about The Second Opinion.
+
 ## Disclaimer
 I have compiled this collection of portable antivirus (AV) scanners from various AV manufacturers for convenience and educational purposes only.
 

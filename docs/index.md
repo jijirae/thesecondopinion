@@ -3,7 +3,8 @@
 layout: home
 
 hero:
-  name: "The Second Opinion"
+  badge: "default"
+  name: "The Second Opinion" 
   text: ""
   tagline: is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.
   image:

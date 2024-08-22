@@ -5,11 +5,13 @@
 ## What are Second Opinion scanners?
 >"Second-opinion scanners are meant to be used when you wish to get a "second opinion," that is, to run a different engine than the one which is currently installed on the computer to see if it finds anything that the installed one did not find. This method is effective due to the diverse methodologies and signature databases employed by different antivirus software, increasing the chances of detecting a wider range of malware, including sophisticated threats that might have evaded the primary antivirus. Second-opinion scanners are particularly useful when the primary antivirus fails to detect a suspected infection, has a high false-positive rate, or when the user simply wants to ensure maximum protection." - [Reddit r/antivirus](https://old.reddit.com/r/antivirus/wiki/index#wiki_second-opinion_scanners)
 
-> [!INFO]
-> TSO scanners are only for Windows machines. 32-bit and 64-bit are supported.
+::: warning NOT USING WINDOWS?
+TSO scanners are only for Windows machines. 32-bit and 64-bit are supported.
+:::
 
-> [!TIP]
-> It is also a pretty good idea to use Windows Defender's Offline scan function. <a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline">Learn more.</a>
+::: tip MICROSOFT DEFENDER'S OFFLINE SCAN
+It is also a pretty good idea to use Windows Defender's Offline scan function. <a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline">Learn more.</a>
+:::
 
 ## The tools included are as follows:
 - [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner)
@@ -19,7 +21,7 @@
 - [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
 - [Malwarebytes Free](https://www.malwarebytes.com/) (14-day premium trial included if you're a first-time user.)
 
-I have compiled these tools in a .zip file which you can download [here.](/download.md)
+I have compiled these tools in a .zip file which you can download [here.](/download.html)
 
 Alternatively, **if you don't trust me**, you can access the links above and download them one-by-one instead.
 
