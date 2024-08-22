@@ -29,6 +29,6 @@ All of these programs except Malwarebytes Free are portable, which means you do 
 
 Keep in mind that you need Administrator privileges to run these tools.
 
-"The Second Opinion" is coined from "The PC Security Channel" in YouTube. Find his stuff [here.](https://www.youtube.com/@pcsecuritychannel)
+"The Second Opinion" is coined from "The PC Security Channel" on YouTube. Find his stuff [here.](https://www.youtube.com/@pcsecuritychannel)
 
 This project is created so I have a personal link for my tools, in case I lose my thumb drive that contains them.
