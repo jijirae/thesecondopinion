@@ -37,4 +37,4 @@ The following antivirus programs included in this compilation are the property o
 ## Like this project?
 If you like this project, you can help me by sharing it with your friends who are in need of such tools. I started helping my friends with tech-related problems when I saw the need for it. I didn't have anyone helping me, so I tried learning it on my own. I don't claim to be a tech-wiz or a know-it-all, but I'm sharing what I know, to help others.
 
-[You can also star the project in Github.](https://github.com/jijirae/thesecondopinion/)
+[You can also star the project on Github.](https://github.com/jijirae/thesecondopinion/)
