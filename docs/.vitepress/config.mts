@@ -5,7 +5,26 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/thesecondopinion/',
   title: "The Second Opinion",
-  head: [['link', { rel: 'icon', href: '/thesecondopinion/favicon.ico' }]],
+  head: [
+    // Primary Meta Tags
+    ['title', {}, 'The Second Opinion'],
+    ['meta', { name: 'title', content: 'The Second Opinion' }],
+    ['meta', { name: 'description', content: 'The Second Opinion is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.' }],
+
+    // Open Graph / Facebook
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:url', content: 'https://jijirae.github.io/thesecondopinion/' }],
+    ['meta', { property: 'og:title', content: 'The Second Opinion' }],
+    ['meta', { property: 'og:description', content: 'The Second Opinion is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.' }],
+    ['meta', { property: 'og:image', content: '/thesecondopinion/meta-tags.png' }],
+
+    // Twitter
+    ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { property: 'twitter:url', content: 'https://jijirae.github.io/thesecondopinion/' }],
+    ['meta', { property: 'twitter:title', content: 'The Second Opinion' }],
+    ['meta', { property: 'twitter:description', content: 'The Second Opinion is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.' }],
+    ['meta', { property: 'twitter:image', content: '/thesecondopinion/meta-tags.png' }],
+  ],
   description: "The Second Opinion is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.",
   themeConfig: {
     outline: {
