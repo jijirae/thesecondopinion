@@ -6,9 +6,6 @@ hero:
   name: "The Second Opinion"
   text: ""
   tagline: is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.
-  prelink:
-    title: August Updates ✨
-    link: /
   image:
     src: /mascot.png
     alt: Futatsuki
