@@ -20,5 +20,4 @@ interface Outline {
      */
     label?: string
   }
-
-export default DefaultTheme
+  export default DefaultTheme
