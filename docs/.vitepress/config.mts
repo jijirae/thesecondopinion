@@ -51,7 +51,8 @@ export default defineConfig({
           { text: 'How-to', link: '/how-to' },
           { text: 'Download TSO', link: '/download' },
           { text: 'About', link: '/about' },
-          { text: 'FREEMEDIAHECKYEAH', link: '/fmhy' }
+          { text: 'FREEMEDIAHECKYEAH', link: '/fmhy' },
+          { text: 'Credits', link: '/credits' }
         ]
       }
     ],
