@@ -1,7 +1,7 @@
 ---
 outline: [1,2]
 ---
-*placeholder for banner*
+![Credits banner](/banner_credits.png)
 
 # Credits
 
