@@ -35,7 +35,7 @@ SHA-256: `30f2def18f1db0cf8de5798f1e1feb5017d199cad9f31a4a8e9f0f4f8436599e`
 [![Download from Pixeldrain](/button_pixeldrain.png)](https://pixeldrain.com/u/KLLTCRSX)
 [![Download from Buzzheavier](/button_buzzheavier.png)](https://buzzheavier.com/f/GVIOeKHpAAA)
 [![Download from Filehaus](/button_filehaus.png)](https://cdn6.filehaus.su/files/1724457905_64157/TheSecondOpinion_v3a.zip)
-> Filehaus uploaded by the best internet user ever FestiveByteRider
+> Filehaus uploaded by FestiveByteRider. Thank you, Festive! <3
 <!--- <img style="-webkit-filter: grayscale(100%);" src="/button_filehaus.png"/> <!-- USE THIS WHEN A HOST IS DOWN-->
 <!--- > Filehaus servers have slow upload/download speed for me, so I'll hold off uploading to Filehaus for now. --->
 ---
