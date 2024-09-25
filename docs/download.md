@@ -25,7 +25,7 @@ Changelog
 - Added Emsisoft Emergency Kit in place of KVRT.
 - Removed KVRT as it needs frequent updates to be useful.
 ```
-[Click me for the VirusTotal result.](https://www.virustotal.com/gui/file/30f2def18f1db0cf8de5798f1e1feb5017d199cad9f31a4a8e9f0f4f8436599e)
+[Click me for the VirusTotal result.](https://www.virustotal.com/gui/file/a899c9de952c8c22a1fc55fbbe1b7f7bce82f65ef9909a9313f3ef48b645fdfe)
 
 SHA-256: `a899c9de952c8c22a1fc55fbbe1b7f7bce82f65ef9909a9313f3ef48b645fdfe`
 
