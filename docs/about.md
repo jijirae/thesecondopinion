@@ -28,8 +28,8 @@ The following antivirus programs included in this compilation are the property o
 4. **TrendMicro Housecall**
    - This program is the property of Trend Micro Incorporated. All rights reserved.
 
-5. **Kaspersky Virus Removal Tool**
-   - This program is the property of Kaspersky Lab. All rights reserved.
+5. **Emsisoft Emergency Kit**
+   - This program is the property of Emsisoft Ltd. All rights reserved.
 
 6. **Malwarebytes Free**
    - This program is the property of Malwarebytes Inc. All rights reserved.

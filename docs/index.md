@@ -12,7 +12,7 @@ hero:
     alt: Futatsuki
   actions:
     - theme: brand
-      text: Download TSO
+      text: Download TSOv4
       link: /download
     - theme: alt
       text: What is TSO?

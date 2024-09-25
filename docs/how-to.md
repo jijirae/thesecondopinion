@@ -44,7 +44,7 @@ It is also a pretty good idea to use Windows Defender's Offline scan function. <
 ## Frequently Asked Questions
 
 #### *"When should I use \[Scanner\]?*"
-You can use them in any order you like. I recommend doing HitmanPro first, then KVRT, then ESET Online Scanner.
+You can use them in any order you like.
 
 #### *"Why should I download from you, I can just download all of these for free!"*
 Well yeah, that's why I provided download links in the ["What is TSO?"](/what-is.html) page. I only compiled these tools because I'd rather have them stored in a place where I can easily find them, than having to download them all one-by-one. 

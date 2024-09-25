@@ -18,7 +18,7 @@ It is also a pretty good idea to use Windows Defender's Offline scan function. <
 - [ESET Online Scanner](https://www.eset.com/int/home/online-scanner/)
 - [HitmanPro](https://www.hitmanpro.com/en-us/downloads)
 - [TrendMicro Housecall](https://www.trendmicro.com/en_ca/forHome/products/housecall.html)
-- [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
+- [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergency-kit/download/)
 - [Malwarebytes Free](https://www.malwarebytes.com/) (14-day premium trial included if you're a first-time user.)
 
 I have compiled these tools in a .zip file which you can download [here.](/download.html)
