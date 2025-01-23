@@ -10,6 +10,7 @@ export default defineConfig({
     ['title', {}, 'The Second Opinion'],
     ['meta', { name: 'title', content: 'The Second Opinion' }],
     ['meta', { name: 'description', content: 'The Second Opinion is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.' }],
+    ['link', { rel: 'icon', href: '/thesecondopinion/favicon.ico' }],
 
     // Open Graph / Facebook
     ['meta', { property: 'og:type', content: 'website' }],
