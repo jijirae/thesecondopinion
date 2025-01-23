@@ -39,7 +39,7 @@ export default defineConfig({
     },
     
     nav: [
-      { text: 'Download TSO', link: '/download' },
+      { text: '<b>⭐ Download TSO</b>', link: '/download' },
       { text: 'What is TSO?', link: '/what-is' },
       { text: 'About', link: '/about' }
     ],
@@ -49,7 +49,7 @@ export default defineConfig({
         items: [
           { text: 'What is TSO?', link: '/what-is' },
           { text: 'How-to', link: '/how-to' },
-          { text: 'Download TSO', link: '/download' },
+          { text: '<b><i>⭐ Download TSO</b></i>', link: '/download' },
           { text: 'About', link: '/about' },
           { text: 'FREEMEDIAHECKYEAH', link: '/fmhy' },
           { text: 'Credits', link: '/credits' }

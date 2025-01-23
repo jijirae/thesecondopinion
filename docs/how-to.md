@@ -56,7 +56,7 @@ I have a good paying job and an actual life. I don't need anything from you, who
 ┐(￣ヮ￣)┌
 
 #### *"I want to contribute!"*
-First of all, thank you. Second, you can submit a pull request [here](https://github.com/jijirae/thesecondopinion/pulls), or chat with me in the #project-updates channel in [FMHY](https://discord.com/channels/956006107564879872/1270052253947920464), should you have any suggestions/clarifications.
+First of all, thank you. Second, you can submit a pull request [here](https://github.com/jijirae/thesecondopinion/pulls), or chat with me in the #project-updates channel in [FMHY](https://rentry.co/fmhy-invite), should you have any suggestions/clarifications.
 
 >[!WARNING]
 > FMHY has its own rules and restrictions in-place. I SHALL NOT and WILL NOT be held responsible should you choose to misbehave or piss people off.

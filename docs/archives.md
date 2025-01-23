@@ -6,6 +6,25 @@ outline: 2
 # Welcome to the Archives.
 Here we store old versions of TSO. What are you *\*cough*\* doing here?
 
+## <img style="float: left;" src="/old.png"/>The Second Opinion v4
+::: details
+📅 *September 26, 2024 Release*
+
+Changelog
+```
+- Added Emsisoft Emergency Kit in place of KVRT.
+- Removed KVRT as it needs frequent updates to be useful.
+```
+[Click me for the VirusTotal result.](https://www.virustotal.com/gui/file/a899c9de952c8c22a1fc55fbbe1b7f7bce82f65ef9909a9313f3ef48b645fdfe)
+
+SHA-256: `a899c9de952c8c22a1fc55fbbe1b7f7bce82f65ef9909a9313f3ef48b645fdfe`
+
+[![Download from Pixeldrain](/button_pixeldrain.png)](https://pixeldrain.com/u/ZMe2kGfm)
+[![Download from Buzzheavier](/button_buzzheavier_gray.png)](about:blank)
+<!--- <img style="-webkit-filter: grayscale(100%);" src="/button_filehaus.png"/> <!-- USE THIS WHEN A HOST IS DOWN-->
+<!--- > Filehaus servers have slow upload/download speed for me, so I'll hold off uploading to Filehaus for now. --->
+:::
+---
 ## <img style="float: left;" src="/old.png"/>The Second Opinion v3a
 ::: details
 > [!NOTE]
