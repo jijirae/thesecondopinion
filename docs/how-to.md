@@ -20,7 +20,7 @@ Let's get you properly set up!
 ## Setting up TSO
 
 ### 1. Downloading TSO
-Head over the ["Download"](/download.html) and choose from the mirrors I have provided.
+Head over to ["***⭐ Download TSO***"](/download.html) and choose from the mirrors I have provided.
 
 ### 2. Unpacking the archive
 Once you have downloaded the file, right-click on the file to see the options for 7-zip. You can either;
