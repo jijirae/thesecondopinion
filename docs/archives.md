@@ -6,6 +6,22 @@ outline: 2
 # Welcome to the Archives.
 Here we store old versions of TSO. What are you *\*cough*\* doing here?
 
+## <img style="float: left;" src="/old.png"/>The Second Opinion v4a
+::: details
+📅 *January 23, 2025 Release*
+
+Changelog
+```
+- Updated executables.
+```
+[Click here for the VirusTotal result.](https://www.virustotal.com/gui/file/302172451aa19860b186624f2bbd337e3d5fc5ee040cee84171182ea3036641d)
+
+SHA-256: `302172451aa19860b186624f2bbd337e3d5fc5ee040cee84171182ea3036641d`
+
+[![Download from Pixeldrain](/button_pixeldrain.png)](https://pixeldrain.com/u/NBz9DVEx)
+[![Download from GoFile](/button_gofile.png)](https://gofile.io/d/D0m7wF)
+:::
+
 ## <img style="float: left;" src="/old.png"/>The Second Opinion v4
 ::: details
 📅 *September 26, 2024 Release*

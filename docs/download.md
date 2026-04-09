@@ -17,19 +17,23 @@ TSO scanners are only for Windows machines. 32-bit and 64-bit are supported.
 It is also a pretty good idea to use Windows Defender's Offline scan function. <a href="https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-offline">Learn more.</a>
 :::
 
-## <img style="float: left;" src="/new.png"/> <h style="font-size: 3rem;color: transparent; background:-webkit-linear-gradient(120deg, #B7012E, #FDA598, #B7012E); -webkit-background-clip: text;">The Second Opinion v4a</h> 
-📅 *January 23, 2025 Release*
+## <img style="float: left;" src="/new.png"/> <h style="font-size: 3rem;color: transparent; background:-webkit-linear-gradient(120deg, #B7012E, #FDA598, #B7012E); -webkit-background-clip: text;">The Second Opinion v4b</h> 
+📅 *April 9, 2026 Release*
 
 Changelog
 ```
-- Updated executables.
+- Updated executables
+- Removed 32-bit versions of executables
 ```
-[Click here for the VirusTotal result.](https://www.virustotal.com/gui/file/302172451aa19860b186624f2bbd337e3d5fc5ee040cee84171182ea3036641d)
 
-SHA-256: `302172451aa19860b186624f2bbd337e3d5fc5ee040cee84171182ea3036641d`
+::: warning NO VIRUSTOTAL FOR THIS RELEASE
+VirusTotal has changed their policy for ZIP files, limiting uploads to 3MB. As a result, we cannot provide a VirusTotal scan for this release. I am looking into alternative scanning services and will update this page when I have a solution.
+:::
 
-[![Download from Pixeldrain](/button_pixeldrain.png)](https://pixeldrain.com/u/NBz9DVEx)
-[![Download from GoFile](/button_gofile.png)](https://gofile.io/d/D0m7wF)
+SHA-256: `db13ceaa4dda82367c94949504ebe669d771d41211aa715233b6a259e5962223`
+
+[![Download from Pixeldrain](/button_pixeldrain.png)](https://pixeldrain.com/u/tksq9Bos)
+[![Download from GoFile](/button_gofile.png)](https://gofile.io/d/4ebLJ4)
 ---
 ### Older versions have been moved to the [Archives.](/archives.html)
 *why would you even want older versions...*
