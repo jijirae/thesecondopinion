@@ -1,4 +1,4 @@
-<a href="https://jijirae.github.io/thesecondopinion/"><img src="docs/public/meta-tags.png" width="400" height="auto" alt="Futatsuki, the mascot of TSO"></a>
+<a href="https://jijirae.github.io/thesecondopinion/"><img src="docs/public/meta-tags.png" alt="Futatsuki, the mascot of TSO"></a>
 
 # The Second Opinion
 
