@@ -10,7 +10,7 @@ Let's get you properly set up!
 *This guide assumes that you are a beginner-level user, and have really basic knowledge on computers.*
 
 ## Prerequisites
-1. A file archiver tool, like [7zip](), or [WinRAR]().
+1. A file archiver tool, like [7zip](https://www.7-zip.org/), or [WinRAR](https://www.win-rar.com/).
 2. A Windows computer.
 3. (Optional) A thumb drive.
 
@@ -24,7 +24,7 @@ Head over to ["***⭐ Download TSO***"](/download.html) and choose from the mirr
 
 ### 2. Unpacking the archive
 Once you have downloaded the file, right-click on the file to see the options for 7-zip. You can either;
-- A. Extract to "archive name" to let 7-zip make it's own folder with the name of the archive and all the files included...
+- A. Extract to "archive name" to let 7-zip make its own folder with the name of the archive and all the files included...
 - B. or Open the archive and drag-and-drop the files yourself.
 
 The first one is easier because it's always the same place alongside where the archive is placed.

@@ -37,7 +37,7 @@ A special acknowledgment goes to the developers and companies behind the followi
 
 5. **Emsisoft Emergency Kit**
    - Developed by **Emsisoft Ltd.**
-   - Website: [hhttps://www.emsisoft.com/en/home/emergency-kit/download/](https://www.emsisoft.com/en/home/emergency-kit/download/)
+   - Website: [https://www.emsisoft.com/en/home/emergency-kit/download/](https://www.emsisoft.com/en/home/emergency-kit/download/)
 
 6. **Malwarebytes Free**
    - Developed by **Malwarebytes Inc.**

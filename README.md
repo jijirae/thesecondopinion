@@ -1,9 +1,12 @@
-<a href="https://jijirae.github.io/thesecondopinion/"><img src="docs/public/mascot.png" width="200" height="auto" alt="Futatsuki, the mascot of TSO">
-# The Second Opinion </a>
+<a href="https://jijirae.github.io/thesecondopinion/"><img src="docs/public/mascot.png" width="200" height="auto" alt="Futatsuki, the mascot of TSO"></a>
+
+# The Second Opinion
+
+[![Visit the site](docs/public/mascot.png)](https://jijirae.github.io/thesecondopinion/)
 
 The Second Opinion is a suite of programs designed to scan for malware, viruses, trojans, and many more for your PC.
 
-"The Second Opinion" is coined from "The PC Security Channel" in YouTube. Find his stuff [here.](https://www.youtube.com/@pcsecuritychannel)
+"The Second Opinion" is coined from "The PC Security Channel" on YouTube. Find his stuff [here](https://www.youtube.com/@pcsecuritychannel).
 
 This project is created so I have a personal link for my tools, in case I lose my thumb drive that contains them.
 

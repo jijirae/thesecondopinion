@@ -36,7 +36,7 @@ export default defineConfig({
     logo: 'mascot.png',
     footer: {
       message: 'Tools included in TSO are not created by me. They are created by their respective developers. I am not responsible for any damage caused by the tools included in TSO.',
-      copyright: '© 2024, <a href="https://github.com/jijirae">raeji</a> and <a href="https://jijirae.github.io/thesecondopinion/credits.html">contributors.</a>'
+      copyright: '© 2026, <a href="https://github.com/jijirae">raeji</a> and <a href="https://jijirae.github.io/thesecondopinion/credits.html">contributors.</a>'
     },
     
     nav: [
